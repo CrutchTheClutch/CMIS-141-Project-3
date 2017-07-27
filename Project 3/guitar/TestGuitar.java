@@ -4,7 +4,7 @@ package guitar;
  * File: TestGuitar.java
  * Author: William Crutchfield
  * Date: February 21, 2016
- * Description: Tests the Guitar.java class, creates multiple Guitar instances and displays their parameters.
+ * Description: Creates multiple Guitar instances and displays their parameters.
  */
 public class TestGuitar {
     public static void main(String[] args) {
