@@ -1,5 +1,5 @@
 # CMIS-141-Project-3
-#### An introductory project to become familiarized with OOP
+#### An introductory project to become familiarized with OOP.
 
 Creates multiple Guitar instances and displays their parameters.
 
